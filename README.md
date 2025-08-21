@@ -47,7 +47,7 @@ A simple yet elegant Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaS
 
 ## 📸 Preview
 
-![Tic-Tac-Toe Preview](assets/preview.png)
+![Tic-Tac-Toe Preview](Assets/preview.png)
 
 ---
 
